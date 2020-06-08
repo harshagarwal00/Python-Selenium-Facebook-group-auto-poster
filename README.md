@@ -18,15 +18,10 @@ Setup
 
  - First of all, install [Python 3](https://www.python.org/downloads/) into your machine. I used python 3.7
 
- - Install [PIP](https://ahmadawais.com/install-pip-macos-os-x-python/)
-  
- - Then insall selenium:
+ - Install PIP & install selenium:
    ```
-   pip install selenium
-   ```
-   OR
-   ```
-   pip3 install selenium
+	python3.7  get-pip.py		
+	pip3.7 install selenium
    ```	
 
  - Check [version of google chrome](https://www.businessinsider.com/what-version-of-google-chrome-do-i-have). I used chrome version 83.0.4103.97.
