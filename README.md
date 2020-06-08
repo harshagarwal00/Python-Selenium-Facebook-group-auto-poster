@@ -1,10 +1,10 @@
 Cite Reference
 ----------
-Author: https://github.com/ethanXWL
-Title of program/source code: Python-Selenium-Facebook-group-auto-poster
-Code Version: Commit Version 2cd2aab9ae9f4195dbc6553b927f0398e54cc8dc
-Type: Source Code
-URL: https://github.com/ethanXWL/Python-Selenium-Facebook-group-auto-poster 
+* Author: https://github.com/ethanXWL
+* Title of program/source code: Python-Selenium-Facebook-group-auto-poster
+* Code Version: Commit Version 2cd2aab9ae9f4195dbc6553b927f0398e54cc8dc
+* Type: Source Code
+* URL: https://github.com/ethanXWL/Python-Selenium-Facebook-group-auto-poster 
 
 
 # Python-Selenium-Facebook-group-auto-poster
@@ -13,8 +13,8 @@ A Python script use Selenium to achieve automatically posting images with text o
 Setup
 ----------
  - Change facebook setting: 
-   1> change to [classic view](https://www.facebook.com/help/645404059595478)
-   2> [Disable 2 step authetnication](https://www.alphr.com/facebook/1006409/two-factor-authentication-2FA-facebook)
+   1. change to [classic view](https://www.facebook.com/help/645404059595478)
+   2. [Disable 2 step authetnication](https://www.alphr.com/facebook/1006409/two-factor-authentication-2FA-facebook)
 
  - First of all, install [Python 3](https://www.python.org/downloads/) into your machine. I used python 3.7
 
@@ -58,10 +58,14 @@ def main():
  ```
 
 #Run
+```
 source setup.sh
+```
 
 Running script
 ---------
 After that run the script by runing 
 
+```
 python3.7 fb-group-poster.py 
+```
