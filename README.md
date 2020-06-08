@@ -27,7 +27,8 @@ Setup
  - Check [version of google chrome](https://www.businessinsider.com/what-version-of-google-chrome-do-i-have). I used chrome version 83.0.4103.97.
 
  - Download the [Chrome Driver](http://chromedriver.storage.googleapis.com/index.html) and place it in the same directory with the script. Make sure chromedriver is same version as google chrome.
-   I used [Link](http://chromedriver.storage.googleapis.com/index.html?path=83.0.4103.39/)
+`   I used [Link](http://chromedriver.storage.googleapis.com/index.html?path=83.0.4103.39/).
+	If you are using 83.0.4103.39 chromedriver then no need to run this it is already downloaded and stored.
 
 
 
